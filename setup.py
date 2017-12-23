@@ -14,6 +14,9 @@ setup(
     version="0.0.1",
     author="Vasiliy Chernov",
     author_email='kapot65@gmail.com',
+    url='https://github.com/kapot65/random_custom_pdf',
+    download_url='https://github.com/kapot65/random_custom_pdf/tarball/0.0.1'
+    'master.zip',
     packages=["random_custom_pdf"],
     platforms='any',
     install_requires=reqs
